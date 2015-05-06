@@ -54,7 +54,8 @@ result:
 
 ## One month bingo
 
-Let's say you want to start the 4th of the month and play until the end (31st), just run:
+Let's say you and your co-worker want to start the 4th of the month and play until the end (31st) with a field of three rows wide, just run:
+
 ```
-run `php index.php -p2 -w4 -s4 -m31`
+run `php index.php -p2 -w3 -s4 -m31`
 ```
