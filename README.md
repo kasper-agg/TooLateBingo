@@ -51,3 +51,10 @@ result:
 |29|41|25|44|
 +--+--+--+--+
 ```
+
+## One month bingo
+
+Let's say you want to start the 4th of the month and play until the end (31st), just run:
+```
+run `php index.php -p2 -w4 -s4 -m31`
+```
