@@ -1,5 +1,5 @@
 # TooLateBingo
-Does your co-worker turn up late to work every now and then? Don't worry and play some bingo!
+Does your co-worker turn up late to work every now and then? Don't worry and play Too Late Bingo!
 
 This PHP script lets you create random bingo cards.
 
